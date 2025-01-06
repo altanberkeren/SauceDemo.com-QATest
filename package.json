@@ -1,0 +1,15 @@
+{
+    "name": "software-testing-and-meintance-project",
+    "version": "1.0.0",
+    "description": "Playwright with POM for Sauce Demo",
+    "main": "index.js",
+    "scripts": {
+      "test": "npx playwright test"
+    },
+    "author": "QA Tester",
+    "license": "ISC",
+    "devDependencies": {
+      "@playwright/test": "^1.35.0"
+    }
+  }
+  
